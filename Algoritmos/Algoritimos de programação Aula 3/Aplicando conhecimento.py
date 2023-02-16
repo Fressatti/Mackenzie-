@@ -1,5 +1,4 @@
 Var = int(input())
-'''Verifica se o número é divisível por 3 e 5'''
 if Var % 3 == 0 and Var % 5 == 0:
     print("O número é divisível por 3 e 5")
 else:

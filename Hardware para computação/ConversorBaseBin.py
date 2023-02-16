@@ -1,4 +1,4 @@
-Base =int(input(' Digite um número Binario:'))
+Base =str(input(' Digite um número Binario:'))
 n = 2 
 
 Decimal = int(Base, 2)

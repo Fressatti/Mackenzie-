@@ -1,4 +1,4 @@
-Base =int(input(' Digite um número Hexadecimal :'))
+Base =str(input(' Digite um número Hexadecimal :'))
 n = 2
 Hexadecimal = int(Base, 16)
 Convertido = (Hexadecimal)

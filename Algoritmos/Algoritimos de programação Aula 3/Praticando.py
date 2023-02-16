@@ -5,7 +5,7 @@ d = 1
 f = 5
 
 z = a==c 
-x =a < b 
+x = a < b 
 v = d > b
 m = c != f 
 ç = a == b 
