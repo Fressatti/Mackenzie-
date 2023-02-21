@@ -7,6 +7,15 @@ Decimal = str(Convertido)
 Bin = str(bin(Convertido))
 Hexa = str(hex(Convertido))
 
+
 print("Valor Decimal", Decimal)
 print("Valor Hexadecimal",Hexa [n:])
-print("Valor Binario",Bin [n:])
+print("Valor Binário",Bin [n:])
+
+
+
+
+
+
+
+
