@@ -1,0 +1,15 @@
+th {
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+  }
+  td {
+    text-align: right;
+    padding: 10px;
+  }
+  p {
+    text-align: justify;
+    text-indent: 40px;
+    letter-spacing: 5px;
+  }
+

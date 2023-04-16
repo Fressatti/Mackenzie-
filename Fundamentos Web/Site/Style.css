@@ -7,7 +7,11 @@ body {
     margin: 0;
     padding: 0;
     justify-content: center;
-    text-align: center;
+    text-align: center;    
+    background-image: url("https://safetec.com.br/wp-content/webp-express/webp-images/uploads/2022/01/infraestrutura-ti.jpg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
 }
 p {
     color: rgb(0, 0, 0);
@@ -35,6 +39,7 @@ p {
   }	
   li {
     float: left;
-  }
   
+  }
+
 

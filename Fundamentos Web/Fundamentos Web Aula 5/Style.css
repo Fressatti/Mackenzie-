@@ -1,0 +1,54 @@
+header {
+    background-color: yellow;
+    flex-direction: center;
+    display: flex;
+    justify-content: center;
+}
+  nav li {
+    display: inline-block;
+    margin: 0;
+  }  
+    ul {
+        background-color: aquamarine;
+        justify-content: space-around;
+        display: flex;
+        max-width: 480px;
+        flex-direction: center;
+        flex-flow: row wrap 
+    }
+  
+
+  .main {
+    background-color: rgb(138, 4, 138);
+    color: yellow;
+  }
+
+  aside.aside-1 {
+    background-color: chartreuse  ;
+  }
+
+  aside.aside-2 {
+    background-color: lightgreen;
+  }
+
+  footer {
+    background-color: green;
+  }
+  @media screen and (max-width: 480px) {
+    nav li {
+      display: block;
+    }
+    aside.aside-1,
+    aside.aside-2 {
+      display: block;
+    }
+  }
+
+  @media screen and (min-width: 480px) {
+    aside.aside-1,
+    aside.aside-2 {
+      display: inline-block;
+      vertical-align: top;
+      width: 50%;
+    }
+} 
